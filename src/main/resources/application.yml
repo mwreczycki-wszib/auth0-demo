@@ -1,0 +1,8 @@
+server:
+  port: 9999
+
+okta:
+  oauth2:
+    issuer: https://dev-8qrl1ntazfw8lv6w.us.auth0.com/ #change me
+    client-id: f44neLPc8fA2vjFbo5YZYRUNa8yM2x7e #change me
+    client-secret: <secret>
